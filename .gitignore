@@ -1,8 +1,4 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/c,vscode,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=c,vscode,macos
-
-### C ###
 # Prerequisites
 *.d
 
@@ -55,6 +51,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+<<<<<<< HEAD
 
 ### macOS ###
 # General
@@ -92,5 +89,3 @@ Temporary Items
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-
-# End of https://www.toptal.com/developers/gitignore/api/c,vscode,macos
